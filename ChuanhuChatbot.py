@@ -6,7 +6,7 @@ import sys
 import traceback
 # import markdown
 
-my_api_key = ""    # 在这里输入你的 API 密钥
+my_api_key = "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"    # 在这里输入你的 API 密钥
 initial_prompt = "You are a helpful assistant."
 
 if my_api_key == "":
